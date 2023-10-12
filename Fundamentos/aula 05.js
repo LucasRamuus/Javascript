@@ -1,10 +1,10 @@
-/*
-> Maior
+/* Operadores relacionais
+>  Maior
 >= Maior igual
-< Menor
+<  Menor
 <= Menor igual
 == igual
-= atribuição 
+=  atribuição 
 != diferente
 */
 let num1=10
